@@ -1,0 +1,15 @@
+# Secrets -- never commit an API key
+.env
+*.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Scratch and logs
+*.log
+*.tmp
+.DS_Store
