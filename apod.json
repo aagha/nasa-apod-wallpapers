@@ -1,6 +1,12 @@
 [
  {
   "location": "APOD",
+  "title": "Galaxies Battle in the NGC 7771 Group",
+  "author": "Roberto Marinoni",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/NGC7771group_Marinoni_1179.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
   "title": "The Emergence of Dark Nebula Lynds 1251",
   "author": "David Cruz",
   "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Ldn1251Comparison_Cruz_2160.jpg?w=1920"
@@ -37,501 +43,9 @@
  },
  {
   "location": "APOD",
-  "title": "Milky Way versus Aurora",
-  "author": "Guillaume Scheib",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Chance Triple Alignment: Plane, Space Station, Sun",
-  "author": "Petr Horalek / Inst. Physics Opava",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Ice Fishing for Cosmic Neutrinos",
-  "author": "NSF, B. Gudbjartsson, IceCube Collaboration",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "NGC 3660 and Burçin's Galaxy",
-  "author": "Image Credit & Copyright: Adam Block , El Sauce Obs.",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/Ngc3660Burcin_Block_960.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Globular Cluster Omega Centauri",
-  "author": "Javier O. Cadenas Parra",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/NGC5139CadenasParra.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Perseids from Perseus",
-  "author": "Jakub Kuřák",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Perseids_karuk_3000.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
-  "author": "Image Credit: International Gemini Observatory / NOIRLab/NSF/AURA Image Processing: J. Miller & M. Rodriguez (International Gemini Observatory/NSF NOIRLab), T.A. Rector (University of Alaska Anchorage/NSF NOIRLab), D. de Martin & M. Zamani (NSF NOIRLab)",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/noirlab2621a.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Hydra Cluster of Galaxies",
-  "author": "Image Credit & Copyright: Rafael Sampaio",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/HydraClusterSampaio.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "M74: A Grand Design Spiral",
-  "author": "NASA, ESA, and the Hubble Heritage (STScI / AURA)- ESA / Hubble Collaboration Acknowledgment: R. Chandar (U. Toledo) & J. Miller (U. Michigan)",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/m74_hst_1280.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "A Year of Sunspots",
-  "author": "NSF, NSO, AURA, MPS, Inouye Tel",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/SunFlowers_NSO_1901.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "M42: The Great Nebula in Orion",
-  "author": "Roberto Palaia",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Eclipse Pair",
-  "author": "Gwenaël Blanck",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08_12and28-EclipsePair.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Cocoon Nebula Wide Field",
-  "author": "Piotr Czerski",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Double Lobed Asteroid Torifune",
-  "author": "Image Credit & Copyright: JAXA , U. of Tokyo , Chiba Tech , Tokyo U. of Science , AIST , Paris Obs. , IAC",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/Torifune_JAXA_1400.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Stickney Crater",
-  "author": "HiRISE, MRO, LPL (U. Arizona), NASA",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Tranquility and Serenity",
-  "author": "Image Credit & Copyright: Nyêrdson Ferreira",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/TranquilitySerenity2048.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Daytime Moon Meets Evening Star",
-  "author": "Image Credit & Copyright: Debra Ceravolo",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/Venus_Moon_2026_06_17.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "NGC 206 and the Star Clouds of Andromeda",
-  "author": "David Cruz",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Total Solar Eclipse from Greenland",
-  "author": "Aditya Madhavan",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TSE2026DR_Madhaven.jpeg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Supernumerary Rainbows over New Jersey",
-  "author": "John Entwistle",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Selfie at Vera Rubin Ridge",
-  "author": "Image Credit: NASA, JPL-Caltech, MSSS - Panorama: Andrew Bodrov",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Gigantic Jet Over the Tatacoa Desert",
-  "author": "Image Credit & Copyright: Mario Vargas Text: Keighley Rockcliffe ( NASA GSFC , UMBC CSST , CRESST II )",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sprite.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "De Gerlache-Kocher Massif",
-  "author": "Alejandro Sanz",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Where Your Elements Came From",
-  "author": "NASA GSFC's SVS",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Major Fireball Meteor",
-  "author": "Ollie Taylor",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Hubble: Decagon Around Saturn's South Pole",
-  "author": "NASA, ESA, STScI, HST; A. Sánchez-Lavega (UPV), A. Simon (NASA-GSFC), M. Wong (UC Berkeley); Processing: A. Pagan (STScI)",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/SaturnDecagon_Hubble_960.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Ghosts of Five Supernovas",
-  "author": "Stephane Vetter, Yann Sainty",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "A Complete Auroral Oval from SMILE",
-  "author": "ESA, CAS, SMILE, UVI",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm-1.jpeg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "A Plane Lunar Eclipse",
-  "author": "Paulo Ferreira",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneEclipse_Ferreira_1059.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Sibling Supernova Remnants",
-  "author": "Image Credit: NASA Goddard Space Flight Center and M. Michailidis et al. 2026; optical: DSS ; infrared: NASA / WISE / JPL - Caltech / UCLA ; ultraviolet: NASA / Swift Text: Cecilia Chirenti ( NASA GSFC , UMCP , CRESST II )",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/sibling_supernovae.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Andromeda in Southern Spring",
-  "author": "Lucy Yunxi Hu",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "NGC 7129: Star Formation with Jets from Webb",
-  "author": "NASA, ESA, CSA, STScI, JWST; Processing: A. Pagan (STScI)",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/weic2620a.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Vaporizing Meteor Photobombs the Lacerta Nebula",
-  "author": "Tom Burnett",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/MeteorGecko_Burnett_4944.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Andromeda Before Photoshop",
-  "author": "Kees Scherer",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Comet R3 PanSTARRS Through Time",
-  "author": "Image Credit & Copyright: Jakub Kuřák & Martin Mašek ( FZU of the Czech Academy of Sciences )",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/R3Tails_Kurak_1973.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Buck Moon and Belt of Venus",
-  "author": "Branko Nadj",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Three Galaxy Pairs",
-  "author": "Rafael Sampaio",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Three3GalaxyPairs_Sampaio_2784.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Mars and the Beehive Under an Aurora",
-  "author": "Petr Horálek (Institute of Physics in Opava), Josef Kujal, Vojan Höfer",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesličky_01_1500px.png?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Unusually Smooth Sections of Asteroid Itokawa",
-  "author": "Image Credit: JAXA , ISAS",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/itokawa07_hayabusa_1080.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "A Zodiacal Night",
-  "author": "Neelam and Ajay Talwar (TWAN)",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "M27: The Dumbbell Nebula",
-  "author": "Image Credit & Copyright: Francesco Antonucci",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/M27_antonucci_3090.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Six Moons of Saturn",
-  "author": "Alexandre Trentini",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08-05-0609_7-SaturnSystem_c.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "NGC 6188: Dragons of Ara",
-  "author": "Image Credit & Copyright: Rod Prazeres",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/AraDragons_Prazeres_7200.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Moons, Rings, Shadows, Clouds: Saturn (Cassini)",
-  "author": "Image Credit: NASA , JPL-Caltech , Space Science Institute",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/SaturnRingsMoons_Cassini_960.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Solar Eclipses and Culture",
-  "author": "Javier Castro",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Escalera_XT30-Eclipse-total-sol_v2.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "A Fire Rainbow over West Virginia",
-  "author": "Christa Harbig",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Turtle Rock on Mars",
-  "author": "Image Credit: NASA / JPL-Caltech / MSSS ; Processing & License : Thomas Thomopoulos",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/TurtleRock_Curiosity_2048.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Dust Trail of Comet Tempel 2",
-  "author": "Image Credit & Copyright: Dan Bartlett",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/10P_Tempel2_20260711_DEBartlett2048.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Venus and Jupiter: Conjunction from Avebury",
-  "author": "Image Credit & Copyright: Josh Dury",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/CosmicKissTheCoveAveburyDury.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Sky Turns Above Paranal",
-  "author": "Osvaldo Castillo",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TheSkyTurnsAboveParanal.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Unraveling NGC 3169",
-  "author": "Image Credit & Copyright: Simone Curzi and the ShaRA Team",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/ngc3169_ngc3166_ngc3165.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
-  "author": "DES/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; Processing: T.A. Rector (UAA/NOIRLab), R. Colombari & M. Zamani (NOIRLab)",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/corona_australis_1024.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Large Magellanic Cloud",
-  "author": "Monica Mesa",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/LMC.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Mars Marathon by Perseverance",
-  "author": "Image Credit: NASA , LPL (U. Arizona) , MRO , HiRISE",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/PIA26726.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Dueling Bands over the Atacama Desert",
-  "author": "Image Credit & Copyright: Julien Looten",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/ZodiMw_Looten_960.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Moon, Venus and Spica Meet",
-  "author": "Włodzimierz Bubak",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Mostly Perseids",
-  "author": "Jakub Koukal (Valašské Meziříčí Observatory)",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "NGC 4449: Small Galaxy, Big Impact",
-  "author": "NASA, ESA, A. Aloisi (STScI/ESA), and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "A Golden Corona Eclipse",
-  "author": "Rui Santos (Living Impressions)",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/GoldCorona_Santos_960.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Haunting the Cepheus Flare",
-  "author": "Mirko Tondinelli",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Colors of the Moon",
-  "author": "Marcella Giulia Pace",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Messier Craters in Stereo",
-  "author": "Image Credit: Apollo 11 , NASA ; Stereo Image Copyright Patrick Vantuyne",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/MessierCrater3d_vantuyne.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Mirrored Meteor and Milky Way",
-  "author": "Jeff Dai (TWAN)",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "LDN 1295: The Giraffe Nebula",
-  "author": "Alessandro Merga",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/LDN1295_giraffe.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Milky Way over Manhattan",
-  "author": "Jason Kurth, Ty Buckley",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Supermoon Versus Micromoon",
-  "author": "Image Credit: Soumyadeep Mukherjee",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/SuperMicroMoon_Mukherjee_3000.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "10 Days of Venus and Jupiter",
-  "author": "Image Credit & Copyright: Aditya Pawar",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/VenusJupiter10_Pawar_1080.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Saturn System Smörgåsbord",
-  "author": "Tom Williams",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Pelican Nebula in Gas, Dust, and Stars",
-  "author": "Mark Killion",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Starry Night II",
-  "author": "Image Credit & Copyright: Rodrigo Guerra , Original Painting: Vincent van Gogh",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/StarryNight2_Guerra_960.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Lunar Farside",
-  "author": "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Nebulous Realm of WR 134",
-  "author": "Image Credit & Copyright: Luigi Morrone and Telescope Live",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/WR134morrone2048.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Saturn's Iapetus: Painted Moon",
-  "author": "Image Credit: NASA , ESA , JPL , SSI , Cassini Imaging Team",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/iapetus4_cassini_4100.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Vela Supernova Remnant",
-  "author": "Image Credit & Copyright: José Mtanous",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/Vela_Mtanous_2900.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Comet 220P in Outburst",
-  "author": "Spilios Asimakopoulos",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Comet220P_SA_4104.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Anticrepuscular Rays over Sicily",
-  "author": "Image Credit & Copyright: Marcella Giulia Pace Text: Cecilia Chirenti ( NASA GSFC , UMCP , CRESST II )",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/crepuscular2.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "NGC 1300: Barred Spiral Galaxy",
-  "author": "Image Credit: NASA ESA , Hubble Heritage",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/NGC1300_HST_6637.jpg?w=1920"
- },
- {
-  "location": "APOD",
   "title": "A New Lunar Crater: McGetchin",
   "author": "NASA/GSFC/Intuitive Machines",
   "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Messier 33: The Triangulum Galaxy",
-  "author": "George Chatzifrantzis",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Three Galaxies in Pavo",
-  "author": "Image Credit & Copyright: Mike Selby",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/NGC6769LRGBcropAZ-1500-20-May-2026.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "Apollo 12 and Surveyor 3",
-  "author": "Apollo 12, Alan Bean - Stereo Image Copyright: Kevin Frank",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "NGC 1514: The Crystal Ball Nebula",
-  "author": "Image Credit: International Gemini Observatory / NOIRLab / NSF / AURA ; Image Processing: J. Miller & M. Rodriguez ( International Gemini Observatory / NSF NOIRLab ), T.A. Rector ( University of Alaska Anchorage / NSF NOIRLab ), D. de Martin & M. Zamani ( NSF NOIRLab ) Text: Cecilia Chirenti ( NASA GSFC , UMCP , CRESST II )",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/noirlab2613a_large.jpg?w=1920"
- },
- {
-  "location": "APOD",
-  "title": "The Horns of Venus",
-  "author": "Thierry Legault",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg?w=1920"
  },
  {
   "location": "APOD",
@@ -541,9 +55,15 @@
  },
  {
   "location": "APOD",
-  "title": "Aurora Slathers Up the Sky",
-  "author": "Image Credit: Jack Fischer , Expedition 52 , NASA",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/aurora_iss052e007857.jpg?w=1920"
+  "title": "PK 164 +31.1: The Headphone Nebula",
+  "author": "Image Credit & Copyright: Bernard Miller Text: Keighley Rockcliffe ( NASA GSFC , UMBC CSST , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/headphone_nebula.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Mirrored Meteor and Milky Way",
+  "author": "Jeff Dai (TWAN)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=1920"
  },
  {
   "location": "APOD",
@@ -553,33 +73,171 @@
  },
  {
   "location": "APOD",
-  "title": "Milky Way Urban Style",
-  "author": "Image Credit & Copyright: Shingoo Lee",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/MilkyWaySeoulShingooLee.jpg?w=1920"
+  "title": "Chasing the Moon's Shadow",
+  "author": "NASA",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg?w=1920"
  },
  {
   "location": "APOD",
-  "title": "Longmore 8: The Hamster Wheel Nebula",
-  "author": "Image Credit & Copyright: Mazlin , Parker, Forman, Magill, Hanson Text: Keighley Rockcliffe ( NASA GSFC , UMBC CSST , CRESST II )",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/hamster.jpg?w=1920"
+  "title": "Charon: Moon of Pluto",
+  "author": "Image Credit: NASA , Johns Hopkins Univ./APL , Southwest Research Institute , U.S. Naval Observatory",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/Charon-Neutral-Bright-Release.jpg?w=1920"
  },
  {
   "location": "APOD",
-  "title": "RCW 86: Historical Supernova Remnant",
-  "author": "Image Credit & Copyright: David Cowland",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/RCW86Final2048.jpg?w=1920"
+  "title": "A Plane Lunar Eclipse",
+  "author": "Paulo Ferreira",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneEclipse_Ferreira_1059.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png?w=1920"
  },
  {
   "location": "APOD",
-  "title": "Treble Clef: Unusual X-ray Hot Radio Source",
-  "author": "X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS; Radio: ASTRONLOFAR; Image processing: NASA/CXC/SAO/N. Wolk",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=1920"
+  "title": "Rubin's COSMOS Field",
+  "author": "NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/noirlab2618b.jpg?w=1920"
  },
  {
   "location": "APOD",
-  "title": "3D 67P",
-  "author": "ESA , Rosetta , MPS , OSIRIS - Stereo Anaglyph: Philippe Lamy and The Team",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg?w=1920"
+  "title": "Noctilucent Clouds over Sweden",
+  "author": "V. Höfer, D. Večerník & B. Večerníková",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "M74: A Grand Design Spiral",
+  "author": "NASA, ESA, and the Hubble Heritage (STScI / AURA)- ESA / Hubble Collaboration Acknowledgment: R. Chandar (U. Toledo) & J. Miller (U. Michigan)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/m74_hst_1280.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Chance Triple Alignment: Plane, Space Station, Sun",
+  "author": "Petr Horalek / Inst. Physics Opava",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Gigantic Jet Over the Tatacoa Desert",
+  "author": "Image Credit & Copyright: Mario Vargas Text: Keighley Rockcliffe ( NASA GSFC , UMBC CSST , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sprite.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Lunar Farside",
+  "author": "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "NGC 7635: The Bubble Nebula",
+  "author": "Paweł Piechnik",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/Bubble_Piechnik_1616.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Keogram: The Sky in 2025",
+  "author": "Image Credit & License: Cees Bassa ( Netherlands Institute for Radio Astronomy )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/Keogram2025_Bassa_960.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Apollo 12 and Surveyor 3",
+  "author": "Apollo 12, Alan Bean - Stereo Image Copyright: Kevin Frank",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Bright Perseids from Sweden",
+  "author": "P-M Hedén (Clear Skies, TWAN)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/PerseidsAPOD_P-MHeden.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "M104: The Sombrero Galaxy's Tidal Streams",
+  "author": "Engelbert Vollmer",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/M104_Vollmer_4222.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Supernumerary Rainbows over New Jersey",
+  "author": "John Entwistle",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "NGC 300: A Cosmic Gemstone with Stars and Gas Clouds",
+  "author": "Image Credit & Copyright: Team Ciel Austral Text: Cecilia Chirenti ( NASA GSFC , UMCP , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/ngc300.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Major Fireball Meteor",
+  "author": "Ollie Taylor",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "A Daytime Eclipse: Moon Occults Venus",
+  "author": "Arnaud Mariat",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Rigel and the Witch Head Nebula",
+  "author": "Piotr Czerski",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "LDN 1295: The Giraffe Nebula",
+  "author": "Alessandro Merga",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/LDN1295_giraffe.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Globular Cluster Omega Centauri",
+  "author": "Javier O. Cadenas Parra",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/NGC5139CadenasParra.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Supernova Remnant Pa 30",
+  "author": "International Gemini Observatory/NOIRLab/NSF/AURA. Acknowledgment: PI: T. Cunningham (Center for Astrophysics - Harvard & Smithsonian). Image Processing: J. Miller & M. Rodriguez (International Gemini Observatory/NSF NOIRLab), T.A. Rector (University of Alaska Anchorage/NSF NOIRLab), D. de Martin & M. Zamani (NSF NOIRLab).",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Solar Eclipses and Culture",
+  "author": "Javier Castro",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Escalera_XT30-Eclipse-total-sol_v2.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Three Galaxies in Pavo",
+  "author": "Image Credit & Copyright: Mike Selby",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/NGC6769LRGBcropAZ-1500-20-May-2026.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Rosetta's Selfie",
+  "author": "ESA/Rosetta/Philae/CIVA",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Milky Way versus Aurora",
+  "author": "Guillaume Scheib",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Curious Cometary Knots  in the Helix Nebula",
+  "author": "Image: NASA, ESA, CSA, STScI; Image Processing: Alyssa Pagan (STScI)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ.png?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Cosmic Latte: The Average Color of the Universe",
+  "author": "Karl Glazebrook & Ivan Baldry (JHU)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=1920"
  },
  {
   "location": "APOD",
@@ -589,14 +247,356 @@
  },
  {
   "location": "APOD",
-  "title": "Saturn Behind the Moon",
-  "author": "Roberto Ortu",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg?w=1920"
+  "title": "A Fire Rainbow over West Virginia",
+  "author": "Christa Harbig",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg?w=1920"
  },
  {
   "location": "APOD",
-  "title": "Rigel and the Witch Head Nebula",
-  "author": "Piotr Czerski",
-  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=1920"
+  "title": "Six Moons of Saturn",
+  "author": "Alexandre Trentini",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08-05-0609_7-SaturnSystem_c.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "The Milky Way over Manhattan",
+  "author": "Jason Kurth, Ty Buckley",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "The Cotton Candy Clouds of Rho Ophiuchi",
+  "author": "Image Credit & Copyright: Ángel Molina Text: Keighley Rockcliffe ( NASA GSFC , UMBC CSST , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/rho_ophiuchi_1024.png?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Analemma over the Callanish Stones",
+  "author": "Giuseppe Petricca",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Anticrepuscular Rays over Sicily",
+  "author": "Image Credit & Copyright: Marcella Giulia Pace Text: Cecilia Chirenti ( NASA GSFC , UMCP , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/crepuscular2.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Perseids over a Little Planet",
+  "author": "Marcin Rosadziński",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/A_Planet_of_Meteors.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "The Red Glow of the Cosmic Bat Nebula",
+  "author": "Image Credit & Copyright: Humbert Cédric Text: Keighley Rockcliffe ( NASA GSFC , UMBC CSST , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/cosmic_bat_halpha_1024.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Longmore 8: The Hamster Wheel Nebula",
+  "author": "Image Credit & Copyright: Mazlin , Parker, Forman, Magill, Hanson Text: Keighley Rockcliffe ( NASA GSFC , UMBC CSST , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/hamster.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "The Eclipse and the Stork",
+  "author": "Włodzimierz Bubak",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/eclipse_stork.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Vaporizing Meteor Photobombs the Lacerta Nebula",
+  "author": "Tom Burnett",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/MeteorGecko_Burnett_4944.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
+  "author": "DES/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; Processing: T.A. Rector (UAA/NOIRLab), R. Colombari & M. Zamani (NOIRLab)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/corona_australis_1024.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Shadow and Rainbow",
+  "author": "Image Credit & License: Dave Loschiavo",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/ShadowandRainbow_Loschiavo.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Interplanetary Earth",
+  "author": "Image Credit: Cassini Imaging Team , SSI , JPL , ESA , NASA & NASA / JHU Applied Physics Lab / Carnegie Inst. Washington",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/earth_cassinimessenger_1799.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Eclipse Pair",
+  "author": "Gwenaël Blanck",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08_12and28-EclipsePair.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "NGC 2170: The Angel Nebula",
+  "author": "Image Credit & Copyright: Jason Marriott",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/Angel_Marriott_1707.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "The Large Magellanic Cloud",
+  "author": "Monica Mesa",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/LMC.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "RCW 86: Historical Supernova Remnant",
+  "author": "Image Credit & Copyright: David Cowland",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/RCW86Final2048.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "AR 4478: Giant Sunspot Group",
+  "author": "Image Credit & Copyright: Alfredo Vidal Pérez",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/AR4478_vidal_960.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "NGC 6188: Dragons of Ara",
+  "author": "Image Credit & Copyright: Rod Prazeres",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/AraDragons_Prazeres_7200.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "NGC 206 and the Star Clouds of Andromeda",
+  "author": "David Cruz",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Comet 220P in Outburst",
+  "author": "Spilios Asimakopoulos",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Comet220P_SA_4104.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Moon, Venus and Spica Meet",
+  "author": "Włodzimierz Bubak",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Perseids from Perseus",
+  "author": "Jakub Kuřák",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Perseids_karuk_3000.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Night on a Spooky Planet",
+  "author": "Stéphane Vetter (Nuits sacrées)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "A Long Cloud on Mars",
+  "author": "ESA, DLR, FU Berlin; Processing & License: J. Cowart",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Comet R3 PanSTARRS and Orion",
+  "author": "Image Credit & Copyright: Luc Perrot ( TWAN )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/CometOrion_Perrot_960_annotated.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Andromeda Before Photoshop",
+  "author": "Kees Scherer",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "M83: The Southern Pinwheel",
+  "author": "Aldo Zanetti",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "3D 67P",
+  "author": "ESA , Rosetta , MPS , OSIRIS - Stereo Anaglyph: Philippe Lamy and The Team",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Eagle Nebula Pillars in Infrared from Hubble",
+  "author": "Image Credit: NASA , ESA , Hubble , HLA ; Processing: Luis Romero Ventura",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/M16Ir_HubbleRomero_2786.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Triple Shockwave from Sun Crossing Rocket",
+  "author": "Image Credit & Copyright: John Winkopp ( WAI Media )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/TripleSunShock_Winkopp_1108.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Stickney Crater",
+  "author": "HiRISE, MRO, LPL (U. Arizona), NASA",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Hubble: Decagon Around Saturn's South Pole",
+  "author": "NASA, ESA, STScI, HST; A. Sánchez-Lavega (UPV), A. Simon (NASA-GSFC), M. Wong (UC Berkeley); Processing: A. Pagan (STScI)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/SaturnDecagon_Hubble_960.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Daytime Moon Meets Evening Star",
+  "author": "Image Credit & Copyright: Debra Ceravolo",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/Venus_Moon_2026_06_17.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Ice Fishing for Cosmic Neutrinos",
+  "author": "NSF, B. Gudbjartsson, IceCube Collaboration",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Messier 2",
+  "author": "Image Credit: ESA/Hubble & NASA , G. Piotto et al.",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/potw1913aa.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Dueling Bands over the Atacama Desert",
+  "author": "Image Credit & Copyright: Julien Looten",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/ZodiMw_Looten_960.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Andromeda Through Gas and Dust",
+  "author": "Image Credit & Copyright: Nick Fritz Text: Keighley Rockcliffe ( NASA GSFC , UMBC CSST , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/andromeda_1024.png?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Earth's Shadow Visualized with Lunar Eclipses",
+  "author": "Tim Martin",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/EarthShadow_Martin_4000.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Milky Way Urban Style",
+  "author": "Image Credit & Copyright: Shingoo Lee",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/MilkyWaySeoulShingooLee.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Unraveling NGC 3169",
+  "author": "Image Credit & Copyright: Simone Curzi and the ShaRA Team",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/ngc3169_ngc3166_ngc3165.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "The Ghosts of Five Supernovas",
+  "author": "Stephane Vetter, Yann Sainty",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "A Zodiacal Night",
+  "author": "Neelam and Ajay Talwar (TWAN)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Pathfinder on Mars",
+  "author": "Image Credit: Mars Pathfinder , JPL , NASA",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/PIA00621.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Leonid Meteors Through Orion",
+  "author": "Luo Hongyang",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Leonids2022_Hongyang_2880.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Messier 104",
+  "author": "Image Credit: CTIO , NOIRLab , DOE , NSF , AURA ; Image Processing: T. A. Rector ( U. Alaska Anchorage ), D. de Martin ( NSF ’s NOIRLab ) & M. Zamani (NSF, NOIRLab)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/M104noirlab2612a.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Haunting the Cepheus Flare",
+  "author": "Mirko Tondinelli",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Desert Stairway to Heaven",
+  "author": "Julien Looten",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "NGC 1300: Barred Spiral Galaxy",
+  "author": "Image Credit: NASA ESA , Hubble Heritage",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/may/NGC1300_HST_6637.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Mostly Perseids",
+  "author": "Jakub Koukal (Valašské Meziříčí Observatory)",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Mars Marathon by Perseverance",
+  "author": "Image Credit: NASA , LPL (U. Arizona) , MRO , HiRISE",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/PIA26726.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Possible Supernova Remnant in Galactic Center",
+  "author": "Image Credit & Copyright: X-ray: NASA / CXC / UCLA / Z. Zhu et al.; ESA / XMM-Newton ; Optical: PanSTARRS ; Radio: MeerKAT ; Image Processing: NASA / CXC / SAO / L. Frattare and P. Edmonds Text: Cecilia Chirenti ( NASA GSFC , UMCP , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/sgrc_lg.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Tranquility and Serenity",
+  "author": "Image Credit & Copyright: Nyêrdson Ferreira",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/TranquilitySerenity2048.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "An Anticrepuscular Rainbow Fan",
+  "author": "Aurelia Degli Esposti",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Treble Clef: Unusual X-ray Hot Radio Source",
+  "author": "X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS; Radio: ASTRONLOFAR; Image processing: NASA/CXC/SAO/N. Wolk",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "The Eagle Nebula and Friends",
+  "author": "Image Credit & Copyright: Emmanuel Delgadillo Text: Keighley Rockcliffe ( NASA GSFC , UMBC CSST , CRESST II )",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/june/eagle.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "NGC 4449: Small Galaxy, Big Impact",
+  "author": "NASA, ESA, A. Aloisi (STScI/ESA), and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=1920"
+ },
+ {
+  "location": "APOD",
+  "title": "Saturn Behind the Moon",
+  "author": "Roberto Ortu",
+  "url_img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg?w=1920"
  }
 ]
