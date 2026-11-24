@@ -1,0 +1,39 @@
+name: Rebuild APOD wallpaper list
+
+on:
+  schedule:
+    # 12:17 UTC = 04:17 America/Los_Angeles, safely after NASA rolls the APOD
+    # day over (midnight ET). GitHub schedule cron is UTC.
+    - cron: '17 12 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run offline tests
+        run: python3 -m unittest discover -s tests
+
+      - name: Rebuild apod.json
+        run: python3 apod_wallpapers.py --out apod.json --width 1920
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add apod.json
+          if git diff --cached --quiet; then
+            echo "apod.json unchanged; nothing to push"
+            exit 0
+          fi
+          git commit -m "apod: daily rebuild"
+          git push origin HEAD:main
