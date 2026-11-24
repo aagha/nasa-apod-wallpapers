@@ -29,6 +29,9 @@ hourly.
 
 ## Rebuild the list
 
+Automated: a GitHub Actions workflow (`.github/workflows/apod.yml`) rebuilds and pushes
+`apod.json` daily at 12:17 UTC (04:17 PT). No key or secret is involved. Manual rebuild:
+
 ```bash
 python3 apod_wallpapers.py --out apod.json --width 1920
 git add apod.json && git commit -m "apod: daily rebuild" && git push
